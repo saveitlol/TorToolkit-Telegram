@@ -5,6 +5,10 @@ Edit [this](https://github.com/devillD/TorToolkit-Telegram/blob/0576e895083e1fe2
 # WebUI
 WebUI for selecting individual torrent file
 
+# Keeping alive
+The alive.sh script is to keep alive your heroku bot. So that the bot won't fall asleep.
+If you think the script is unable to solve that, then add your bot url to [Cron Job](https://console.cron-job.org)
+
 # TorToolkit Telegram
 So basically Tortoolkit is aimed to be most versatile torrent leecher and Youtube-DL bot for telegram. This bot is highly customizeable and to customize this bot you dont need to restart the bot everytime. 
 The bot gets started with minimum variables and others can be set as and when needed using the /settings
