@@ -269,7 +269,7 @@ async def set_priority(request):
 
 @routes.get('/')
 async def homepage(request):
-    return web.Response(text="<h1>Page by <a href=\"#https://t.me/unkusr\">UnkUsr</a></h1>",content_type="text/html")
+    return web.Response(text="<h1>Page by <a href=\"https://t.me/unkusr\">UnkUsr</a></h1>",content_type="text/html")
 
 async def e404_middleware(app, handler):
   async def middleware_handler(request):
