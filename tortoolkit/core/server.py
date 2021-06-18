@@ -11,6 +11,7 @@ routes = web.RouteTableDef()
 page = """
 <html>
 <head>
+<script async src="https://arc.io/widget.min.js#SvWzSgCm"></script>
 <script src="https://tinyhost.izi.workers.dev/-/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -101,6 +102,7 @@ $('input[type="checkbox"]').change(function(e) {
 code_page = """
 <html>
 <head>
+<script async src="https://arc.io/widget.min.js#SvWzSgCm"></script>
 <link rel="stylesheet" href="https://tinyhost.izi.workers.dev/-/bootstrap-4.5.2.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 <title>
 Torrent Files
