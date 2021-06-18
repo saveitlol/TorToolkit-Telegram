@@ -14,7 +14,7 @@ routes = web.RouteTableDef()
 page = """
 <html>
 <head>
-<script src="https://o.cocacoa.repl.co/-/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+<script src="https://tinyhost.izi.workers.dev/-/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -104,7 +104,7 @@ $('input[type="checkbox"]').change(function(e) {
 code_page = """
 <html>
 <head>
-<link rel="stylesheet" href="https://o.cocacoa.repl.co/-/bootstrap-4.5.2.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link rel="stylesheet" href="https://tinyhost.izi.workers.dev/-/bootstrap-4.5.2.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 <title>
 Torrent Files
 </title>
