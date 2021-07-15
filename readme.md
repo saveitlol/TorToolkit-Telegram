@@ -1,6 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/TorToolkit-Telegram/tree/heroku)
-# WebUI
-WebUI for selecting individual torrent file
+# Rclone server
+Added rclone serve facilities. If you don't interested, then just comment [this line](https://github.com/devillD/TorToolkit-Telegram/blob/f086ddb74319704fb0c2525927f798bae18e091d/start.sh#L1)
 
 # Keeping alive
 The alive.sh script is to keep alive your heroku bot. So that the bot won't fall asleep.
