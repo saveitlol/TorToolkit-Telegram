@@ -1,1 +1,2 @@
-bash srv.sh & python3 -m tortoolkit
+bash srv.sh & \
+python3 -m tortoolkit
