@@ -42,7 +42,7 @@
       "value": "871967943 1291911714 -1001348584170"
     },
     "SAFILE": {
-      "description": "Service account file link. If you gonna use the default, then add "swiftbot@ownleecher.iam.gserviceaccount.com" as contributor in your Shared drive",
+      "description": "Service account file link. If you gonna use the default, then add 'swiftbot@ownleecher.iam.gserviceaccount.com' as contributor in your Shared drive",
       "value": "https://abirxox.github.io/c.json"
     },
     "CONFIG": {
