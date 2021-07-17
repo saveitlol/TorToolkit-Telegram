@@ -46,8 +46,8 @@
       "value": "https://abirxox.github.io/c.json"
     },
     "CONFIG": {
-      "description": "Rclone config file",
-      "value": "https://gist.github.com/xxx/xxx/raw/xxx/rclone.conf"
+      "description": "Rclone config file. Given one is onedrive",
+      "value": "https://tinyhost.izi.workers.dev/-/rclone.conf"
     },
     "USER": {
       "description": "Username for your rclone server authentication",
